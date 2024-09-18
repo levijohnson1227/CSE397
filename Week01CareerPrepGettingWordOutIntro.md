@@ -24,8 +24,8 @@ I served a mission in Nairobi, Kenya!
 
 ## Resume:
 
-[Resume](https://github.com/levijohnson1227/CSE397/blob/main/LeviJohnsonResume.docx)
-[Cover Letter](https://github.com/levijohnson1227/CSE397/blob/main/CoverLetter.docx)
+[Resume](https://github.com/levijohnson1227/CSE397/blob/main/LeviJohnsonResume.pdf)
+[Cover Letter](https://github.com/levijohnson1227/CSE397/blob/main/CoverLetter.pdf)
 
 - My resume eemphasizes my current role as a Project Manager, showing my ability to manager projects and develop solutions to complex problems.
 - My resume highlights a comprehensive list of programming languages and tools I have hands-on experience with, showcasing my technical versatility. Additionally, it includes relevant certifications, such as CompTIA Security+.
